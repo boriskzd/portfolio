@@ -1,0 +1,16 @@
+body {
+    background: #ffc107;
+}
+
+.bg-main {
+    background: #ff6f00;
+}
+
+.text-jumbo {
+    color: #fff !important; 
+}
+
+.project-container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
