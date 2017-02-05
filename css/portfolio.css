@@ -1,9 +1,15 @@
 body {
-    background: #ffc107;
+    background: #e8eaf6;
 }
 
-.bg-main {
-    background: #ff6f00;
+#about {
+    margin-top: 50px;
+    padding-top:70px;
+}
+
+.color-main {
+    background: #303f9f;
+    color: #fff;
 }
 
 .text-jumbo {
